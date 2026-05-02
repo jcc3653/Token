@@ -1,0 +1,35 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "Token application with Vercel Speed Insights",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcc3653/Token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcc3653/Token/issues"
+  },
+  "homepage": "https://github.com/jcc3653/Token#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.4",
+    "typescript": "^6.0.3"
+  }
+}
